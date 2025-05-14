@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
                 border: Border(bottom: BorderSide.none),
               ),
               accountName: Text(
-                "Achraf Senhaji",
+                "M. Achraf",
                 style: GoogleFonts.poppins(
                   color: Colors.white,
                   fontSize: 18,
