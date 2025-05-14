@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import './book.dart';
 class ApiService {
-  static const String _apiKey = 'AIzaSyAUXHJ1FodgTIyup32pGRbdRw562DoWpTQ';
+  static const String _apiKey = 'Api_Key';
   static const _query = "Artificial Intelligence";
   static const String _endpoint = 'https://www.googleapis.com/books/v1/volumes?q=flutter';
   static Future<List<Book>> fetchBooks() async{
