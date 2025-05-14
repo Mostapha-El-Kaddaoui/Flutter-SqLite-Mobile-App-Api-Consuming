@@ -1,4 +1,4 @@
-# Mohammedia News - Flutter Book Catalog App
+# Books - Flutter Book Catalog App
 
 A Flutter mobile application that displays a catalog of books by consuming the Google Books API. The app features a responsive grid layout, elegant UI with consistent styling, and network data fetching.
 
