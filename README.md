@@ -59,7 +59,9 @@ The app fetches book data from the Google Books API. Each book is displayed with
 
 ## Screenshots
 
-*Screenshots would be added here*
+![image](https://github.com/user-attachments/assets/ec821179-21f6-47b0-8e46-8e5215bf5c9c)
+![image](https://github.com/user-attachments/assets/57741dc9-921a-42e0-b970-07dd092b2516)
+
 
 ## License
 
